@@ -1,0 +1,4 @@
+[
+ {"id":"tn","adapter":"tn","fixture":"fixtures/tn.html","approved_url":"https://tndce.tn.gov.in/Home/scholarship","notice_type":"scholarship","region":"Tamil Nadu"},
+ {"id":"nsp","adapter":"nsp","fixture":"fixtures/nsp.html","approved_url":"https://scholarships.gov.in/All-Scholarships","notice_type":"scholarship","region":"India"}
+]
